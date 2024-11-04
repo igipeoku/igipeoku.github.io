@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://igipeoku.github.io/MPo/sitemap_index.txt
+Sitemap: https://igipeoku.github.io/cvs/sitemap_index.txt
+Sitemap: https://igipeoku.github.io/jtD/sitemap_index.txt
+Sitemap: https://igipeoku.github.io/pEl/sitemap_index.txt
